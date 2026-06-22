@@ -1,0 +1,24 @@
+{
+    "name": "GameReady.USD.Editor",
+    "rootNamespace": "GameReady.USD.Editor",
+    "references": [
+        "GameReady.USD",
+        "Unity.Importer",
+        "Unity.Importer.Editor",
+        "Unity.Importer.USD",
+        "Unity.Importer.USD.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "USD.NET.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

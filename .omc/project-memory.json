@@ -1,0 +1,258 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1782094610919,
+  "projectRoot": "c:\\Users\\EmberCove.DESKTOP-JMH4MOP\\Documents\\GitHub\\GameReady_Unity",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "Assets": {
+      "path": "Assets",
+      "purpose": "Static assets",
+      "fileCount": 5,
+      "lastAccessed": 1782094610873,
+      "keyFiles": [
+        "GameReady.meta",
+        "InputSystem_Actions.inputactions",
+        "InputSystem_Actions.inputactions.meta",
+        "Scenes.meta",
+        "Settings.meta"
+      ]
+    },
+    "Library": {
+      "path": "Library",
+      "purpose": null,
+      "fileCount": 26,
+      "lastAccessed": 1782094610874,
+      "keyFiles": [
+        "AnnotationManager",
+        "ArtifactDB",
+        "ArtifactDB-lock",
+        "BuildPlayer.prefs",
+        "BuildProfileContext.asset"
+      ]
+    },
+    "Logs": {
+      "path": "Logs",
+      "purpose": null,
+      "fileCount": 4,
+      "lastAccessed": 1782094610874,
+      "keyFiles": [
+        "AssetImportWorker0-prev.log",
+        "AssetImportWorker1-prev.log",
+        "Packages-Update.log",
+        "shadercompiler-UnityShaderCompiler.exe-0.log"
+      ]
+    },
+    "Packages": {
+      "path": "Packages",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1782094610875,
+      "keyFiles": [
+        "manifest.json",
+        "packages-lock.json"
+      ]
+    },
+    "ProjectSettings": {
+      "path": "ProjectSettings",
+      "purpose": null,
+      "fileCount": 25,
+      "lastAccessed": 1782094610875,
+      "keyFiles": [
+        "AudioManager.asset",
+        "ClusterInputManager.asset",
+        "DynamicsManager.asset",
+        "EditorBuildSettings.asset",
+        "EditorSettings.asset"
+      ]
+    },
+    "Temp": {
+      "path": "Temp",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1782094610875,
+      "keyFiles": [
+        "FSTimeGet-7d084dd54e73d9b4397463dc180fb2d0",
+        "UnityLockfile"
+      ]
+    },
+    "UserSettings": {
+      "path": "UserSettings",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1782094610875,
+      "keyFiles": [
+        "EditorUserSettings.asset",
+        "Search.settings"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "Assets\\GameReady\\Editor\\GameReadyGraphBuilder.cs",
+      "accessCount": 4,
+      "lastAccessed": 1782101622630,
+      "type": "file"
+    },
+    {
+      "path": "Library\\PackageCache\\com.unity.importer.usd@f3f514c948b8",
+      "accessCount": 3,
+      "lastAccessed": 1782101570148,
+      "type": "directory"
+    },
+    {
+      "path": "Library\\PackageCache\\com.unity.importer.usd@f3f514c948b8\\Unity.Importer.USD.Editor\\UsdImporterGraphFactory.cs",
+      "accessCount": 2,
+      "lastAccessed": 1782095111965,
+      "type": "file"
+    },
+    {
+      "path": "Library\\PackageCache\\com.unity.importer.usd@f3f514c948b8\\Unity.Importer\\Runner\\GraphRunner.cs",
+      "accessCount": 2,
+      "lastAccessed": 1782098970762,
+      "type": "file"
+    },
+    {
+      "path": "Library\\PackageCache\\com.unity.importer.usd@f3f514c948b8\\Unity.Importer\\Nodes\\Node.cs",
+      "accessCount": 2,
+      "lastAccessed": 1782098971468,
+      "type": "file"
+    },
+    {
+      "path": "Assets\\GameReady\\Nodes\\CreateNavMeshAgentNode.cs",
+      "accessCount": 1,
+      "lastAccessed": 1782094686529,
+      "type": "file"
+    },
+    {
+      "path": "Assets\\GameReady\\Nodes\\FilterNPCPrimsNode.cs",
+      "accessCount": 1,
+      "lastAccessed": 1782094686656,
+      "type": "file"
+    },
+    {
+      "path": "Assets\\GameReady\\Editor\\GameReady.USD.Editor.asmdef",
+      "accessCount": 1,
+      "lastAccessed": 1782094687751,
+      "type": "file"
+    },
+    {
+      "path": "Assets\\GameReady\\Nodes\\GameReady.USD.asmdef",
+      "accessCount": 1,
+      "lastAccessed": 1782094688563,
+      "type": "file"
+    },
+    {
+      "path": "Library\\PackageCache\\com.unity.importer.usd@f3f514c948b8\\Unity.Importer.Editor\\Importer\\ModularImporter.cs",
+      "accessCount": 1,
+      "lastAccessed": 1782095104095,
+      "type": "file"
+    },
+    {
+      "path": "Library\\PackageCache\\com.unity.importer.usd@f3f514c948b8\\Unity.Importer.USD.Editor\\Modular\\UsdModularImporter.cs",
+      "accessCount": 1,
+      "lastAccessed": 1782095105801,
+      "type": "file"
+    },
+    {
+      "path": "Library\\PackageCache\\com.unity.importer.usd@f3f514c948b8\\Unity.Importer\\Graph\\ImporterGraph.cs",
+      "accessCount": 1,
+      "lastAccessed": 1782095113441,
+      "type": "file"
+    },
+    {
+      "path": "Library\\PackageCache\\com.unity.importer.usd@f3f514c948b8\\Unity.Importer.USD\\Nodes\\Hierarchy\\BuildHierarchyNode.cs",
+      "accessCount": 1,
+      "lastAccessed": 1782095114984,
+      "type": "file"
+    },
+    {
+      "path": "Library\\PackageCache\\com.unity.importer.usd@f3f514c948b8\\Unity.Importer.USD\\Nodes",
+      "accessCount": 1,
+      "lastAccessed": 1782095121422,
+      "type": "directory"
+    },
+    {
+      "path": "Library\\PackageCache\\com.unity.importer.usd@f3f514c948b8\\Unity.Importer\\Edges\\Edge.cs",
+      "accessCount": 1,
+      "lastAccessed": 1782095122113,
+      "type": "file"
+    },
+    {
+      "path": "Library\\PackageCache\\com.unity.importer.usd@f3f514c948b8\\Unity.Importer.USD\\Nodes\\UsdStage\\UsdStageOpenNode.cs",
+      "accessCount": 1,
+      "lastAccessed": 1782095127970,
+      "type": "file"
+    },
+    {
+      "path": "Library\\PackageCache\\com.unity.importer.usd@f3f514c948b8\\Unity.Importer.USD\\Nodes\\Misc\\IDictionaryAggregatorNode.cs",
+      "accessCount": 1,
+      "lastAccessed": 1782095129303,
+      "type": "file"
+    },
+    {
+      "path": "Library\\PackageCache\\com.unity.importer.usd@f3f514c948b8\\Unity.Importer.USD.Editor\\ImportGraph\\usdImporter.asset",
+      "accessCount": 1,
+      "lastAccessed": 1782095151578,
+      "type": "file"
+    },
+    {
+      "path": "Library\\PackageCache\\com.unity.importer.usd@f3f514c948b8\\Unity.Importer",
+      "accessCount": 1,
+      "lastAccessed": 1782099521862,
+      "type": "directory"
+    },
+    {
+      "path": "Assets\\GameReady\\Nodes\\FilterColliderPrimsNode.cs",
+      "accessCount": 1,
+      "lastAccessed": 1782101581524,
+      "type": "file"
+    },
+    {
+      "path": "Assets\\GameReady\\Nodes\\CreateColliderNode.cs",
+      "accessCount": 1,
+      "lastAccessed": 1782101590865,
+      "type": "file"
+    },
+    {
+      "path": "Library\\PackageCache\\com.unity.importer.usd@f3f514c948b8\\Unity.Importer.USD.Editor\\Modular",
+      "accessCount": 1,
+      "lastAccessed": 1782102420173,
+      "type": "directory"
+    },
+    {
+      "path": "Library\\PackageCache\\com.unity.importer.usd@f3f514c948b8\\Unity.Importer.USD.Editor\\Modular\\UsdModularImporterEditor.cs",
+      "accessCount": 1,
+      "lastAccessed": 1782102595048,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
