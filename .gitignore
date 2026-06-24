@@ -104,3 +104,6 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# USDGameReady embedded package (managed in separate repo)
+/Packages/com.usdgameready/

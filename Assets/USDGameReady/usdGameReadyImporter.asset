@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: be9e89a354fbfd44fa60bdb3edfd7d45, type: 3}
-  m_Name: gameReadyUsdImporter
+  m_Name: usdGameReadyImporter
   m_EditorClassIdentifier: 
   m_Nodes:
   - rid: 4800488168154203076
@@ -131,10 +131,10 @@ MonoBehaviour:
   - rid: 4800488168235728951
   - rid: 4800488168235728952
   - rid: 4800488168235728953
-  - rid: 4425722820745494592
-  - rid: 4425722820745494593
-  - rid: 4425722820745494594
-  - rid: 4425722820745494595
+  - rid: 4425722863388721393
+  - rid: 4425722863388721394
+  - rid: 4425722863388721395
+  - rid: 4425722863388721396
   m_Edges:
   - origin:
       targetedPortSet: 1
@@ -2115,7 +2115,7 @@ MonoBehaviour:
       targetedPortSet: 0
       fieldName: stage
       node:
-        rid: 4425722820745494592
+        rid: 4425722863388721393
   - origin:
       targetedPortSet: 1
       fieldName: output
@@ -2125,27 +2125,27 @@ MonoBehaviour:
       targetedPortSet: 0
       fieldName: gameObjects
       node:
-        rid: 4425722820745494593
+        rid: 4425722863388721394
   - origin:
       targetedPortSet: 1
       fieldName: npcPrimPaths
       node:
-        rid: 4425722820745494592
+        rid: 4425722863388721393
     destination:
       targetedPortSet: 0
       fieldName: npcPrimPaths
       node:
-        rid: 4425722820745494593
+        rid: 4425722863388721394
   - origin:
       targetedPortSet: 1
       fieldName: gameObjects
       node:
-        rid: 4425722820745494593
+        rid: 4425722863388721394
     destination:
       targetedPortSet: 0
       fieldName: gameObjects
       node:
-        rid: 4425722820745494595
+        rid: 4425722863388721396
   - origin:
       targetedPortSet: 1
       fieldName: stage
@@ -2155,22 +2155,22 @@ MonoBehaviour:
       targetedPortSet: 0
       fieldName: stage
       node:
-        rid: 4425722820745494594
+        rid: 4425722863388721395
   - origin:
       targetedPortSet: 1
       fieldName: colliderPrimPaths
       node:
-        rid: 4425722820745494594
+        rid: 4425722863388721395
     destination:
       targetedPortSet: 0
       fieldName: colliderPrimPaths
       node:
-        rid: 4425722820745494595
+        rid: 4425722863388721396
   - origin:
       targetedPortSet: 1
       fieldName: gameObjects
       node:
-        rid: 4425722820745494595
+        rid: 4425722863388721396
     destination:
       targetedPortSet: 0
       fieldName: gameObjects
@@ -3425,20 +3425,20 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
-    - rid: 4425722820745494592
-      type: {class: FilterNPCPrimsNode, ns: GameReady.USD, asm: GameReady.USD}
+    - rid: 4425722863388721393
+      type: {class: FilterNPCPrimsNode, ns: USDGameReady, asm: USDGameReady}
       data:
         temporaryField: 0
-    - rid: 4425722820745494593
-      type: {class: CreateNavMeshAgentNode, ns: GameReady.USD, asm: GameReady.USD}
+    - rid: 4425722863388721394
+      type: {class: CreateNavMeshAgentNode, ns: USDGameReady, asm: USDGameReady}
       data:
         temporaryField: 0
-    - rid: 4425722820745494594
-      type: {class: FilterColliderPrimsNode, ns: GameReady.USD, asm: GameReady.USD}
+    - rid: 4425722863388721395
+      type: {class: FilterColliderPrimsNode, ns: USDGameReady, asm: USDGameReady}
       data:
         temporaryField: 0
-    - rid: 4425722820745494595
-      type: {class: CreateColliderNode, ns: GameReady.USD, asm: GameReady.USD}
+    - rid: 4425722863388721396
+      type: {class: CreateColliderNode, ns: USDGameReady, asm: USDGameReady}
       data:
         temporaryField: 0
     - rid: 4800488168154203076

@@ -117,8 +117,8 @@
   "hotPaths": [
     {
       "path": "Assets\\GameReady\\Editor\\GameReadyGraphBuilder.cs",
-      "accessCount": 4,
-      "lastAccessed": 1782101622630,
+      "accessCount": 5,
+      "lastAccessed": 1782195898054,
       "type": "file"
     },
     {
@@ -126,6 +126,12 @@
       "accessCount": 3,
       "lastAccessed": 1782101570148,
       "type": "directory"
+    },
+    {
+      "path": "Packages\\com.usdgameready\\Runtime\\CreateColliderNode.cs",
+      "accessCount": 3,
+      "lastAccessed": 1782196220134,
+      "type": "file"
     },
     {
       "path": "Library\\PackageCache\\com.unity.importer.usd@f3f514c948b8\\Unity.Importer.USD.Editor\\UsdImporterGraphFactory.cs",
@@ -147,8 +153,56 @@
     },
     {
       "path": "Assets\\GameReady\\Nodes\\CreateNavMeshAgentNode.cs",
-      "accessCount": 1,
-      "lastAccessed": 1782094686529,
+      "accessCount": 2,
+      "lastAccessed": 1782195897398,
+      "type": "file"
+    },
+    {
+      "path": "Packages\\com.usdgameready\\package.json",
+      "accessCount": 2,
+      "lastAccessed": 1782196191559,
+      "type": "file"
+    },
+    {
+      "path": "Packages\\com.usdgameready\\README.md",
+      "accessCount": 2,
+      "lastAccessed": 1782196198237,
+      "type": "file"
+    },
+    {
+      "path": "Packages\\com.usdgameready\\Runtime\\USDGameReady.asmdef",
+      "accessCount": 2,
+      "lastAccessed": 1782196202748,
+      "type": "file"
+    },
+    {
+      "path": "Packages\\com.usdgameready\\Editor\\USDGameReady.Editor.asmdef",
+      "accessCount": 2,
+      "lastAccessed": 1782196208955,
+      "type": "file"
+    },
+    {
+      "path": "Packages\\com.usdgameready\\Runtime\\FilterNPCPrimsNode.cs",
+      "accessCount": 2,
+      "lastAccessed": 1782196212251,
+      "type": "file"
+    },
+    {
+      "path": "Packages\\com.usdgameready\\Runtime\\CreateNavMeshAgentNode.cs",
+      "accessCount": 2,
+      "lastAccessed": 1782196215032,
+      "type": "file"
+    },
+    {
+      "path": "Packages\\com.usdgameready\\Runtime\\FilterColliderPrimsNode.cs",
+      "accessCount": 2,
+      "lastAccessed": 1782196217189,
+      "type": "file"
+    },
+    {
+      "path": "Packages\\com.usdgameready\\Editor\\USDGameReadyGraphBuilder.cs",
+      "accessCount": 2,
+      "lastAccessed": 1782196228380,
       "type": "file"
     },
     {
@@ -251,6 +305,72 @@
       "path": "Library\\PackageCache\\com.unity.importer.usd@f3f514c948b8\\Unity.Importer.USD.Editor\\Modular\\UsdModularImporterEditor.cs",
       "accessCount": 1,
       "lastAccessed": 1782102595048,
+      "type": "file"
+    },
+    {
+      "path": "Packages\\com.gameready.usd\\package.json",
+      "accessCount": 1,
+      "lastAccessed": 1782195912245,
+      "type": "file"
+    },
+    {
+      "path": "Packages\\com.gameready.usd\\README.md",
+      "accessCount": 1,
+      "lastAccessed": 1782195921353,
+      "type": "file"
+    },
+    {
+      "path": "Packages\\com.gameready.usd\\CHANGELOG.md",
+      "accessCount": 1,
+      "lastAccessed": 1782195925338,
+      "type": "file"
+    },
+    {
+      "path": "Packages\\com.gameready.usd\\LICENSE.md",
+      "accessCount": 1,
+      "lastAccessed": 1782195929898,
+      "type": "file"
+    },
+    {
+      "path": "Packages\\com.gameready.usd\\Runtime\\GameReady.USD.asmdef",
+      "accessCount": 1,
+      "lastAccessed": 1782195934926,
+      "type": "file"
+    },
+    {
+      "path": "Packages\\com.gameready.usd\\Runtime\\FilterNPCPrimsNode.cs",
+      "accessCount": 1,
+      "lastAccessed": 1782195939823,
+      "type": "file"
+    },
+    {
+      "path": "Packages\\com.gameready.usd\\Runtime\\CreateNavMeshAgentNode.cs",
+      "accessCount": 1,
+      "lastAccessed": 1782195943510,
+      "type": "file"
+    },
+    {
+      "path": "Packages\\com.gameready.usd\\Runtime\\FilterColliderPrimsNode.cs",
+      "accessCount": 1,
+      "lastAccessed": 1782195948587,
+      "type": "file"
+    },
+    {
+      "path": "Packages\\com.gameready.usd\\Runtime\\CreateColliderNode.cs",
+      "accessCount": 1,
+      "lastAccessed": 1782195954650,
+      "type": "file"
+    },
+    {
+      "path": "Packages\\com.gameready.usd\\Editor\\GameReady.USD.Editor.asmdef",
+      "accessCount": 1,
+      "lastAccessed": 1782195957576,
+      "type": "file"
+    },
+    {
+      "path": "Packages\\com.gameready.usd\\Editor\\GameReadyGraphBuilder.cs",
+      "accessCount": 1,
+      "lastAccessed": 1782195974354,
       "type": "file"
     }
   ],
