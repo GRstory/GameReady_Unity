@@ -224,13 +224,12 @@
       },
       "url": "https://packages.unity.com"
     },
-    "com.usdgameready": {
-      "version": "file:com.usdgameready",
+    "info.flandre.coacd": {
+      "version": "https://github.com/SarahWeiii/CoACD.git?path=/Packages/info.flandre.coacd#unity",
       "depth": 0,
-      "source": "embedded",
-      "dependencies": {
-        "com.unity.importer.usd": "1.0.0-pre.2"
-      }
+      "source": "git",
+      "dependencies": {},
+      "hash": "9dd8431f3b2e7e4654e5a6284e3b8c36b4071c2f"
     },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
